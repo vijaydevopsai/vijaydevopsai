@@ -20,7 +20,7 @@
 
 🔹 Building real-world projects using AWS, Docker, Jenkins, Terraform, and Kubernetes
 
-🔹 Learning GitOps with ArgoCD and Cloud Native technologies
+🔹 Deploying cloud-native applications using AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions and ArgoCD.
 
 🔹 Focused on Infrastructure as Code (IaC), CI/CD Automation, and Monitoring
 
