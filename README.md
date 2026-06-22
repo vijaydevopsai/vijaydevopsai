@@ -28,11 +28,45 @@
 
 ---
 
-## ⚡ Skills & Technologies
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,linux,bash,git,ansible" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,linux,bash,git,ansible,prometheus,grafana" />
 </p>
+
+---
+
+## ⚡ Tech Stack
+
+### ☁️ Cloud
+
+AWS
+
+### 🐳 Containers & Orchestration
+
+Docker • Kubernetes • ArgoCD
+
+### 🔄 CI/CD
+
+Jenkins • GitHub Actions
+
+### 🏗️ Infrastructure as Code
+
+Terraform • Ansible
+
+### 📊 Monitoring
+
+Prometheus • Grafana
+
+### 🌐 Web Servers
+
+Nginx
+
+### 🔧 Version Control
+
+Git • GitHub
+
+### 🐧 Operating Systems
+
+Linux • Ubuntu
 
 ---
 
@@ -42,19 +76,19 @@
 
 GitHub → Jenkins → Docker → AWS
 
-### ☸ Kubernetes Deployment
+### ☸️ Kubernetes Deployment
 
 Deployments • Services • Rolling Updates • Scaling
 
-### 🏗 Terraform Infrastructure
+### 🏗️ Terraform Infrastructure
 
 AWS EC2 • VPC • Security Groups • S3
 
 ### 📊 Monitoring Stack
 
-Prometheus • Grafana • Alerts & Dashboards
+Prometheus • Grafana • Dashboards • Alerting
 
-### 🚀 GitOps Project
+### 🚀 GitOps Deployment
 
 ArgoCD • Kubernetes • Automated Deployments
 
@@ -62,14 +96,19 @@ ArgoCD • Kubernetes • Automated Deployments
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vijaydevopsai&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaydevopsai&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vijaydevopsai&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=vijaydevopsai&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=vijaydevopsai&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaydevopsai&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
@@ -79,7 +118,7 @@ ArgoCD • Kubernetes • Automated Deployments
 https://www.linkedin.com/in/vijay-007/
 
 📧 Email
-vijaydevops769@gmail.com
+[vijaydevops769@gmail.com](mailto:vijaydevops769@gmail.com)
 
 💻 GitHub
 https://github.com/vijaydevopsai
@@ -89,21 +128,19 @@ https://youtube.com/@VijayDevOpsLab
 
 ---
 
-## 🎯 2026 Roadmap
+## 🎯 Current Focus
 
-✅ AWS Cloud Projects
+🚀 Building Production-Ready CI/CD Pipelines
 
-✅ Docker & Kubernetes Mastery
+☁️ AWS Cloud Infrastructure
 
-✅ Terraform Infrastructure Automation
+☸️ Kubernetes & Container Orchestration
 
-✅ GitOps with ArgoCD
+🏗️ Terraform Infrastructure as Code
 
-✅ Monitoring & Observability
+📊 Monitoring with Prometheus & Grafana
 
-✅ Production-Ready CI/CD Pipelines
-
-✅ DevOps Engineer Role
+🔄 GitOps with ArgoCD
 
 ---
 
