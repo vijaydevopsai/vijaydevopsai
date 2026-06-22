@@ -1,94 +1,116 @@
-# Hi 👋, I'm Vijay Kumar
+<div align="center">
 
-### 🚀 DevOps Engineer | AWS | Docker | Jenkins | Kubernetes | Terraform | CI/CD
+# 👋 Hey, I'm Vijay Kumar
 
-Passionate DevOps Engineer focused on Cloud Infrastructure, CI/CD Automation, Containerization, Infrastructure as Code (IaC), and Cloud-Native Technologies.
+### 🚀 DevOps Engineer | Cloud Enthusiast | Automation Builder
 
-## 🔭 Currently Working On
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AWS+☁️+%7C+Docker+🐳+%7C+Kubernetes+☸️;Terraform+🏗️+%7C+Jenkins+⚙️+%7C+GitHub+Actions;CI%2FCD+Automation+Engineer;Linux+🐧+%7C+Cloud+%7C+DevOps;Always+Learning+🚀" />
 
-* AWS Cloud Projects
-* Docker & Kubernetes Deployments
-* Jenkins & GitHub Actions CI/CD Pipelines
-* Terraform Infrastructure Automation
-* ArgoCD GitOps Implementations
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vijaydevopsai&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
-## 🌱 Currently Learning
+</div>
 
-* Kubernetes Administration
-* Terraform Advanced Modules
-* ArgoCD & GitOps
-* Monitoring & Observability
-* Cloud Security Best Practices
+---
 
-## 💡 Core Skills
+## 💫 About Me
 
-### Cloud & DevOps
+🔹 Passionate about DevOps, Cloud Computing, and Automation
 
-* AWS (EC2, S3, IAM, VPC)
-* Docker
-* Kubernetes
-* Terraform
-* Jenkins
-* GitHub Actions
-* ArgoCD
+🔹 Building real-world projects using AWS, Docker, Jenkins, Terraform, and Kubernetes
 
-### Monitoring & Logging
+🔹 Learning GitOps with ArgoCD and Cloud Native technologies
 
-* Prometheus
-* Grafana
+🔹 Focused on Infrastructure as Code (IaC), CI/CD Automation, and Monitoring
 
-### Web Servers
+🔹 Open to DevOps, Cloud, and Platform Engineering opportunities
 
-* Nginx
+---
 
-### Version Control
+## ⚡ Skills & Technologies
 
-* Git
-* GitHub
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,linux,bash,git,ansible" />
+</p>
 
-### Project Management
-
-* Jira
+---
 
 ## 🚀 Featured Projects
 
-### CI/CD Pipeline with Jenkins & Docker
+### 🔥 End-to-End CI/CD Pipeline
 
-* Automated build and deployment pipeline
-* Docker image creation and deployment
-* GitHub integration
+GitHub → Jenkins → Docker → AWS
 
-### Dockerized Nginx Web Application
+### ☸ Kubernetes Deployment
 
-* Containerized web application
-* Custom Dockerfile
-* Nginx deployment
+Deployments • Services • Rolling Updates • Scaling
 
-### Kubernetes Deployment Project
+### 🏗 Terraform Infrastructure
 
-* Pod, Deployment and Service configuration
-* Rolling updates
-* Application scaling
+AWS EC2 • VPC • Security Groups • S3
 
-### Infrastructure as Code with Terraform
+### 📊 Monitoring Stack
 
-* AWS infrastructure provisioning
-* Reusable Terraform modules
+Prometheus • Grafana • Alerts & Dashboards
 
-## 📫 Connect With Me
+### 🚀 GitOps Project
 
-* Email: [vijaydevops769@gmail.com](mailto:vijaydevops769@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/vijaydevopslab/
-* GitHub: https://github.com/vijaydevopsai
+ArgoCD • Kubernetes • Automated Deployments
 
-## ⚡ Fun Fact
+---
 
-I enjoy automating repetitive tasks and building scalable, reliable cloud infrastructure.
+## 📈 GitHub Analytics
 
-## 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vijaydevopsai&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaydevopsai&layout=compact&theme=tokyonight" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaydevopsai\&show_icons=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vijaydevopsai&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=vijaydevopsai)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaydevopsai\&layout=compact)
+## 🌐 Connect With Me
+
+💼 LinkedIn
+https://www.linkedin.com/in/vijay-007/
+
+📧 Email
+vijaydevops769@gmail.com
+
+💻 GitHub
+https://github.com/vijaydevopsai
+
+📺 YouTube
+https://youtube.com/@VijayDevOpsLab
+
+---
+
+## 🎯 2026 Roadmap
+
+✅ AWS Cloud Projects
+
+✅ Docker & Kubernetes Mastery
+
+✅ Terraform Infrastructure Automation
+
+✅ GitOps with ArgoCD
+
+✅ Monitoring & Observability
+
+✅ Production-Ready CI/CD Pipelines
+
+✅ DevOps Engineer Role
+
+---
+
+<div align="center">
+
+### 🚀 Automate Everything • Build Once • Deploy Anywhere
+
+⭐ Thanks for visiting my profile!
+
+</div>
